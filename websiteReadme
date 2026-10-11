@@ -1,0 +1,1000 @@
+# BIKA BITE — WEBSITE DEVELOPMENT BRIEF
+
+**Brand:** Bika Bite  
+**Brand Line:** Born in Bikaner.  
+**Business Verticals:** Bika Bite Kitchen, Bika Bite Namkeen, Bika Bite Mithai  
+**Website Type:** Brand Website + Product Catalogue + Direct Ordering + Business Enquiry Platform
+
+## 1. PROJECT OBJECTIVE
+
+Build a professional, mobile-friendly website for Bika Bite that presents three business verticals under one brand: Kitchen, Namkeen and Mithai.
+
+The website should help customers discover products, view product information, contact the business and place orders directly through WhatsApp or phone calls.
+
+It must also support enquiries from retailers, wholesalers, distributors, event organisers and corporate gifting customers.
+
+**Important:** This is not an e-commerce website. Do not build a shopping cart, checkout process or online payment gateway.
+
+## 2. WEBSITE NAVIGATION
+
+Main navigation:
+
+- Home
+- Kitchen
+- Namkeen
+- Mithai
+- All Products
+- Bulk Orders & Gifting
+- Partner With Us
+- About Us
+- Contact Us
+
+Header buttons:
+
+- Order on WhatsApp
+- Call to Order
+
+On mobile, use a compact menu and keep the primary ordering buttons easily accessible.
+
+## 3. HOME PAGE
+
+### Section 1 — Hero Banner
+
+**Headline:** Born in Bikaner. Made to Be Remembered.
+
+**Supporting copy:**
+
+Welcome to Bika Bite, a food brand bringing together the experience of Kitchen, Namkeen and Mithai under one name. Explore our offerings, discover your favourites and connect with us directly for orders, gifting and business enquiries.
+
+**Buttons:**
+- Explore Our Offerings
+- Order on WhatsApp
+- Call to Order
+
+**Button functionality:**
+- Explore Our Offerings → Scroll to the three business verticals.
+- Order on WhatsApp → Open the official WhatsApp number with a prefilled enquiry.
+- Call to Order → Call the official business phone number.
+
+### Section 2 — Explore Bika Bite
+
+**Heading:** Three Experiences. One Bika Bite.
+
+**Card 1: Bika Bite Kitchen**
+
+Discover our food menu and connect with us for individual orders, family meals and group orders.
+
+Button: Explore Kitchen
+
+**Card 2: Bika Bite Namkeen**
+
+Explore our packaged namkeen and snack range. Contact us for product availability, pack sizes and retail or wholesale enquiries.
+
+Button: Explore Namkeen
+
+**Card 3: Bika Bite Mithai**
+
+Discover our sweets and gifting options for celebrations, festivals, special occasions and bulk requirements.
+
+Button: Explore Mithai
+
+### Section 3 — Featured Products
+
+**Heading:** Discover Our Favourites
+
+**Description:**
+
+Explore selected products from the Bika Bite range. Find product details, available sizes and ordering information before contacting us directly.
+
+Display product cards with:
+
+- Product image
+- Product name
+- Category
+- Short description
+- Pack size or serving information
+- Price, only when confirmed
+- Availability status
+- View Details
+- Order on WhatsApp
+
+Only show products that are actually available.
+
+### Section 4 — Our Story
+
+**Heading:** A Food Brand with Bikaner at Its Heart
+
+**Copy:**
+
+Bika Bite brings Kitchen, Namkeen and Mithai together in one food brand. Our aim is to make it easy for customers to explore our offerings, discover products for everyday moments and special occasions, and connect with us for direct orders.
+
+From food orders to packaged snacks, sweets and gifting enquiries, Bika Bite offers a single place to discover our range and reach our team.
+
+**Button:** Discover Our Story
+
+### Section 5 — Bika Bite Namkeen
+
+**Heading:** Find Your Kind of Crunch
+
+**Copy:**
+
+Explore our namkeen and snack collection. Whether you are looking for everyday snacks, products for your store or options for bulk supply, browse the range and contact us for current availability and pricing.
+
+**Buttons:**
+- Explore Namkeen
+- Enquire for Wholesale
+
+### Section 6 — Bika Bite Mithai
+
+**Heading:** Make Every Occasion Sweeter
+
+**Copy:**
+
+Discover mithai for celebrations, family gatherings, festivals and gifting. For customised requirements, larger quantities and corporate gifting, contact our team to discuss available options.
+
+**Buttons:**
+- Explore Mithai
+- Enquire for Gifting
+
+### Section 7 — Bika Bite Kitchen
+
+**Heading:** Something Good Is Cooking
+
+**Copy:**
+
+Explore the Bika Bite Kitchen menu and contact us to place an order. Menu availability, service locations, delivery options and order timings will be confirmed by our team.
+
+**Buttons:**
+- View Kitchen Menu
+- Call to Order
+
+### Section 8 — Business Enquiries
+
+**Heading:** Let’s Grow Together
+
+**Copy:**
+
+Are you a retailer, wholesaler, distributor or business looking for food products and supply opportunities? Connect with Bika Bite to discuss our product range, commercial requirements and potential partnership opportunities.
+
+**Button:** Partner With Us
+
+### Section 9 — Bulk Orders and Gifting
+
+**Heading:** Bigger Celebrations. Better Planning.
+
+**Copy:**
+
+Planning a celebration, corporate event, festive gift or bulk food order? Tell us what you need, the quantity and your preferred delivery date. Our team will contact you to discuss availability and suitable options.
+
+**Button:** Enquire for Bulk Orders
+
+### Section 10 — Frequently Asked Questions
+
+Show five to six short questions on the homepage with a link to the full FAQ page.
+
+### Section 11 — Final Call to Action
+
+**Heading:** Your Next Bika Bite Starts Here.
+
+**Copy:**
+
+Explore our offerings, discover your favourites and contact us directly for orders, gifting and business enquiries.
+
+**Buttons:**
+- Explore Products
+- WhatsApp Us
+- Call Us
+
+---
+
+## 4. ABOUT US PAGE
+
+**Page title:** About Bika Bite
+
+**Main heading:** Born in Bikaner. Built Around Food.
+
+**Website copy:**
+
+Bika Bite is a food brand bringing together three distinct offerings: Kitchen, Namkeen and Mithai.
+
+Each vertical serves a different customer need. Bika Bite Kitchen focuses on food orders and menu discovery. Bika Bite Namkeen presents our packaged snacks and supports enquiries from individual buyers and trade customers. Bika Bite Mithai brings sweets and gifting options together for celebrations, festivals and special occasions.
+
+Our website makes it easier for customers and business buyers to explore our offerings and connect directly with our team.
+
+We believe a good food brand should be easy to discover, simple to contact and clear about what it offers. That is the experience we want Bika Bite to deliver.
+
+**Our Purpose**
+
+To bring our food offerings together under one recognisable brand and make ordering and business enquiries straightforward.
+
+**Our Three Verticals**
+
+- Bika Bite Kitchen — Food and menu orders.
+- Bika Bite Namkeen — Packaged snacks and trade enquiries.
+- Bika Bite Mithai — Sweets, celebrations and gifting.
+
+**Closing line:** Bika Bite. Born in Bikaner.
+
+Do not publish unverified founding dates, founder stories, production claims, awards or certifications.
+
+---
+
+## 5. BIKA BITE KITCHEN PAGE
+
+**Page title:** Bika Bite Kitchen
+
+**Headline:** Good Food, Just a Message Away.
+
+**Introductory copy:**
+
+Explore the Bika Bite Kitchen menu and contact us directly to place your order. Our team will confirm menu availability, pricing, order timing and delivery or collection options.
+
+### Menu Categories
+
+Create configurable categories according to the actual menu. Examples of category placeholders:
+
+- Meals
+- Snacks
+- Combos
+- Beverages
+- Special Menu
+
+Do not display a category unless products are available under it.
+
+### Menu Item Card
+
+Each item should display:
+
+- Food image
+- Item name
+- Short description
+- Portion or serving size, where applicable
+- Price
+- Availability
+- Order on WhatsApp button
+- Call to Order button
+
+### Kitchen Ordering Instructions
+
+1. Customer selects a menu item.
+2. Customer clicks Order on WhatsApp or Call to Order.
+3. WhatsApp opens with the item name and an enquiry message, or the phone dialler opens.
+4. Bika Bite confirms the order, final price, availability and delivery or collection details.
+
+**Kitchen page CTA:** Hungry? Contact Bika Bite Kitchen to place your order.
+
+### Group and Event Orders
+
+**Heading:** Planning a Group Order?
+
+Contact us for group meals, gatherings and event requirements. Share the date, location, approximate quantity and type of order so our team can check feasibility.
+
+Button: Enquire for Group Orders
+
+---
+
+## 6. BIKA BITE NAMKEEN PAGE
+
+**Page title:** Bika Bite Namkeen
+
+**Headline:** Discover the Bika Bite Namkeen Range.
+
+**Introductory copy:**
+
+Explore our packaged namkeen and snack offerings. Product information, pack sizes, prices and availability are displayed wherever confirmed. Customers and trade buyers can contact us directly for orders and supply enquiries.
+
+### Namkeen Categories
+
+The administrator must be able to add, edit or remove categories based on the real product range.
+
+### Namkeen Product Card
+
+Display:
+
+- Product photograph
+- Product name
+- Short description
+- Pack size
+- Price, if confirmed
+- Ingredients and allergen information, where applicable
+- Shelf-life and storage information, where applicable
+- Availability
+- View Product Details
+- Order on WhatsApp
+
+### Namkeen Product Detail Page
+
+**Headline:** [PRODUCT NAME]
+
+**Description:** [APPROVED PRODUCT DESCRIPTION]
+
+**Available Pack Sizes:** [CONFIRMED PACK SIZES]
+
+**Price:** [CONFIRMED PRICE, IF PUBLISHED]
+
+**Ingredients:** [VERIFIED INGREDIENT LIST]
+
+**Allergen Information:** [VERIFIED INFORMATION]
+
+**Storage Instructions:** [APPROVED STORAGE INSTRUCTIONS]
+
+**Shelf Life:** [VERIFIED SHELF LIFE]
+
+**Ordering copy:**
+
+Contact our team to confirm availability, pricing and delivery options for your selected product.
+
+Buttons:
+- Order This Product on WhatsApp
+- Call to Order
+- Enquire for Wholesale
+
+### Retail and Wholesale Section
+
+**Heading:** Looking for Namkeen for Your Business?
+
+**Copy:**
+
+Bika Bite welcomes enquiries from retailers, shop owners, wholesalers and distributors interested in our namkeen range. Share your business details and product requirements so our team can discuss availability, commercial terms and potential supply arrangements.
+
+Button: Submit a Business Enquiry
+
+Do not publish minimum order quantities, distributor margins or supply commitments until confirmed by the business.
+
+---
+
+## 7. BIKA BITE MITHAI PAGE
+
+**Page title:** Bika Bite Mithai
+
+**Headline:** A Sweet Part of Every Celebration.
+
+**Introductory copy:**
+
+Explore the Bika Bite Mithai range for family occasions, festive celebrations, gifting and special gatherings. Contact us to check available varieties, box sizes, pricing and order requirements.
+
+### Mithai Catalogue
+
+Each product card must show:
+
+- Product image
+- Mithai name
+- Description
+- Available box sizes or weights
+- Price, where confirmed
+- Ingredients and allergen information, where applicable
+- Storage information and shelf life, where verified
+- Order on WhatsApp
+- Call to Order
+
+### Mithai Gifting Section
+
+**Heading:** Gifts That Bring People Together.
+
+**Copy:**
+
+Looking for mithai for a festival, family function, wedding, celebration or business occasion? Contact our team to discuss available gift boxes, quantities, packaging options and delivery arrangements.
+
+**Buttons:**
+- Explore Gift Options
+- Enquire for Bulk Gifting
+
+### Bulk Mithai Enquiry
+
+Collect the following information:
+
+- Name
+- Phone number
+- Email, optional
+- Occasion
+- Product or gift-box preference
+- Quantity required
+- Required delivery date
+- Delivery city or PIN code
+- Additional requirements
+
+Button: Submit Gifting Enquiry
+
+Show a confirmation message only after the form has actually been submitted successfully.
+
+---
+
+## 8. ALL PRODUCTS PAGE
+
+**Page title:** Explore All Bika Bite Products
+
+**Introductory copy:**
+
+Discover products from Bika Bite Kitchen, Bika Bite Namkeen and Bika Bite Mithai in one place. Browse the catalogue and contact us directly for orders and product enquiries.
+
+### Filters
+
+- Category: Kitchen, Namkeen, Mithai
+- Product type, based on actual catalogue
+- Availability, if maintained accurately
+
+### Search
+
+Allow customers to search by product name.
+
+### Product Card
+
+Every card should show the correct category, image, product name, available details and relevant contact buttons.
+
+**Important:** This is a catalogue, not a shopping cart. Do not add quantity-to-cart controls or checkout functionality.
+
+---
+
+## 9. SHARED PRODUCT DETAIL PAGE
+
+Use one reusable template for all packaged products and another suitable template for Kitchen menu items.
+
+### Packaged Product Template
+
+- Product name
+- Product gallery
+- Description
+- Category
+- Pack size or weight
+- Price, where approved
+- Ingredients
+- Allergen information
+- Nutrition information, where required
+- Storage instructions
+- Shelf life
+- Manufacturer/marketer details, as applicable
+- Product-specific FAQs, if useful
+
+**Primary CTA:** Order on WhatsApp
+
+**Secondary CTAs:** Call to Order, Enquire for Bulk Orders
+
+When a customer clicks a CTA, pass the product name and selected pack size into the prefilled enquiry message.
+
+If a product is unavailable, do not allow the website to imply that it is currently orderable. Display an accurate status and provide an enquiry option if appropriate.
+
+---
+
+## 10. BULK ORDERS AND GIFTING PAGE
+
+**Headline:** Tell Us What You Need. We’ll Help You Plan.
+
+**Copy:**
+
+Bika Bite accepts enquiries for suitable bulk food requirements, packaged products, mithai orders and gifting opportunities, subject to availability and business approval.
+
+Share your requirements with our team so we can discuss the available products, quantities, pricing and delivery arrangements.
+
+### Enquiry Form
+
+- Full name
+- Business name, optional
+- Phone number
+- Email, optional
+- Enquiry type: Food Order / Namkeen / Mithai / Gifting / Corporate Order / Other
+- Estimated quantity
+- Required date
+- Delivery city or PIN code
+- Budget range, optional
+- Additional details
+
+**Button:** Request a Quote
+
+Do not display an automatic quotation unless the business has approved pricing rules and the necessary system is implemented.
+
+---
+
+## 11. PARTNER WITH US PAGE
+
+**Headline:** Build a Business Connection with Bika Bite.
+
+**Copy:**
+
+Are you a retailer, wholesaler, distributor or business interested in exploring Bika Bite products?
+
+Connect with our team to discuss our available product range, supply requirements and potential partnership opportunities. Submitting an enquiry does not automatically create a dealership, distribution agreement or commercial commitment.
+
+### Partner Enquiry Form
+
+- Full name
+- Business name
+- Phone number
+- Email
+- Business type: Retailer / Wholesaler / Distributor / Other
+- City and state
+- PIN code
+- Products of interest
+- Existing business details, optional
+- Expected requirement, optional
+- Message
+
+**Button:** Submit Partnership Enquiry
+
+Show the business enquiry contact details and expected response time only after these have been confirmed.
+
+---
+
+## 12. CONTACT US PAGE
+
+**Headline:** We’re Here to Help.
+
+**Copy:**
+
+Have a question about our menu, products, availability, bulk orders or business partnerships? Contact Bika Bite using the details below or send us an enquiry.
+
+### Contact Information
+
+- Phone: [OFFICIAL PHONE NUMBER]
+- WhatsApp: [OFFICIAL WHATSAPP NUMBER]
+- Email: [OFFICIAL BUSINESS EMAIL]
+- Business Address: [VERIFIED BUSINESS ADDRESS]
+- Business Hours: [CONFIRMED HOURS]
+
+### Contact Form
+
+- Name
+- Phone number
+- Email, optional
+- Reason for contacting us
+- Message
+
+**Button:** Send Enquiry
+
+### Direct Contact Buttons
+
+- Call Bika Bite
+- WhatsApp Bika Bite
+- Get Directions, only if a verified public location is available
+
+---
+
+## 13. FAQ PAGE
+
+**1. What is Bika Bite?**
+
+Bika Bite is a food brand with three verticals: Kitchen, Namkeen and Mithai.
+
+**2. Can I order directly through the website?**
+
+You can browse our offerings and initiate an order enquiry through WhatsApp or phone. Our team will confirm availability, pricing and fulfilment details.
+
+**3. Can I pay online on the website?**
+
+The website does not have a checkout or online payment gateway. Payment arrangements will be confirmed directly with the Bika Bite team.
+
+**4. Do you offer home delivery?**
+
+Delivery availability depends on the product and service location. Contact us to confirm whether delivery is available for your order.
+
+**5. Can I buy namkeen in bulk?**
+
+You can submit a wholesale or bulk enquiry. Availability, minimum quantities and commercial terms will be confirmed by our team.
+
+**6. Can I order mithai for gifting?**
+
+You can contact us about available mithai, gift boxes, quantities and delivery arrangements.
+
+**7. Do you work with retailers and distributors?**
+
+Interested businesses can submit a partnership enquiry. Any partnership will be subject to review and agreed commercial terms.
+
+**8. How do I check product availability?**
+
+Use the product-specific WhatsApp button or contact our team by phone.
+
+**9. Can I place a large Kitchen order?**
+
+Contact us with the menu requirements, date, quantity and location so we can check feasibility.
+
+**10. How can I contact Bika Bite?**
+
+Use the official phone number, WhatsApp number or contact form displayed on the website.
+
+---
+
+## 14. SHIPPING AND DELIVERY POLICY
+
+**Page title:** Shipping and Delivery Policy
+
+Delivery arrangements depend on the product category, destination, order size and confirmed availability.
+
+For Kitchen orders, customers should confirm the service area, estimated preparation time and delivery or collection options directly with our team.
+
+For packaged Namkeen and Mithai orders, customers should confirm shipping availability, applicable charges, dispatch timelines and estimated delivery with Bika Bite before placing an order.
+
+Delivery timelines are estimates unless expressly confirmed otherwise.
+
+**Before publication, the business must add:**
+- Actual Kitchen service locations
+- Packaged-goods shipping coverage
+- Dispatch and delivery timelines
+- Delivery charges and any applicable conditions
+- Contact details for delivery-related questions
+
+Do not promise nationwide delivery or a specific delivery time unless the business can fulfil it.
+
+---
+
+## 15. CANCELLATION AND REFUND POLICY
+
+**Page title:** Cancellation and Refund Policy
+
+Orders are handled directly by the Bika Bite team. Customers should contact the team as soon as possible if they need to request a change or cancellation.
+
+Whether an order can be changed or cancelled depends on its status, preparation or dispatch stage and the applicable product requirements.
+
+If a customer receives a damaged, incorrect or otherwise problematic order, they should contact Bika Bite promptly and provide the order details and relevant photographs, where appropriate.
+
+Any refund, replacement or other resolution will be assessed under the business's published policy and applicable consumer law.
+
+**Before publication, the business must confirm:**
+- Cancellation cut-off rules
+- Refund eligibility
+- Treatment of perishable and made-to-order products
+- Process for damaged, missing or incorrect orders
+- Refund processing method and timelines
+- Official complaints contact
+
+This draft must be reviewed and finalised to match the actual operating process and applicable law. Do not publish an unconditional “no refunds” claim without appropriate legal review.
+
+---
+
+## 16. PRIVACY POLICY
+
+**Page title:** Privacy Policy
+
+Bika Bite may collect information that customers provide through contact forms, WhatsApp conversations, telephone enquiries and business enquiry forms.
+
+Depending on the interaction, this information may include a name, phone number, email address, business details, delivery location and order requirements.
+
+The information should be used only for appropriate purposes, such as responding to enquiries, confirming orders, arranging fulfilment, handling complaints and managing business relationships.
+
+Information should be accessible only to authorised people and service providers who need it for legitimate business purposes, subject to applicable law and contractual safeguards.
+
+Customers should be informed of the applicable data practices, retention periods, contact channel for privacy requests and any relevant third-party processing.
+
+**Before publication, add and verify:**
+- Legal name of the business responsible for the data
+- Official privacy contact
+- Actual data collection and retention practices
+- Relevant service providers and integrations
+- Applicable rights and complaint procedures
+- Any cookies or analytics actually used by the website
+
+The final policy must reflect the website's real technical implementation and applicable privacy law.
+
+---
+
+## 17. TERMS AND CONDITIONS
+
+**Page title:** Website Terms and Conditions
+
+This website is intended to provide information about Bika Bite, its Kitchen, Namkeen and Mithai offerings, and ways to contact the business.
+
+Product images, descriptions, prices and availability should be accurate to the extent reasonably possible. Some products may be subject to availability, location and confirmation by the Bika Bite team.
+
+Submitting a WhatsApp message or contact form is an enquiry and does not automatically guarantee product availability, order acceptance, delivery or a confirmed price.
+
+Any order or business arrangement will be subject to the terms communicated and agreed directly with the customer.
+
+Customers should provide accurate contact and delivery information. Website users must not misuse the website, submit unlawful content or attempt to interfere with its operation.
+
+Applicable consumer rights and other mandatory legal protections remain unaffected.
+
+**Before publication, add and verify:**
+- Legal business identity and contact details
+- Governing law and appropriate dispute-resolution terms
+- Order confirmation process
+- Pricing and product-availability terms
+- Intellectual property provisions
+- Applicable consumer and food-business requirements
+
+Have the final terms reviewed for the actual business and jurisdiction.
+
+---
+
+## 18. FOOTER
+
+Display the following:
+
+**BIKA BITE**
+
+Born in Bikaner.
+
+Kitchen · Namkeen · Mithai
+
+**Explore**
+- Home
+- About Us
+- Kitchen
+- Namkeen
+- Mithai
+- All Products
+
+**Customer Support**
+- Contact Us
+- FAQs
+- Shipping & Delivery
+- Cancellation & Refund Policy
+- Privacy Policy
+- Terms & Conditions
+
+**Business**
+- Bulk Orders & Gifting
+- Partner With Us
+- Wholesale Enquiries
+
+**Contact**
+- Phone: [OFFICIAL NUMBER]
+- WhatsApp: [OFFICIAL NUMBER]
+- Email: [OFFICIAL EMAIL]
+
+Copyright © [YEAR] Bika Bite. All rights reserved.
+
+---
+
+## 19. WHATSAPP ORDERING — REQUIRED FUNCTIONALITY
+
+The developer must connect every relevant WhatsApp button to the official business WhatsApp number.
+
+Use this URL structure:
+
+`https://wa.me/[COUNTRYCODEANDNUMBER]?text=[URL_ENCODED_MESSAGE]`
+
+Use the country code and number without a plus sign, spaces or punctuation. Encode the prefilled message correctly.
+
+### General Enquiry Message
+
+Hello Bika Bite team, I would like to know more about your products and services. Please assist me.
+
+### Kitchen Message
+
+Hello Bika Bite Kitchen, I would like to enquire about placing an order.
+
+Item: [ITEM NAME]
+
+Quantity: [QUANTITY]
+
+Delivery or collection location: [LOCATION]
+
+Please confirm availability and pricing.
+
+### Namkeen Message
+
+Hello Bika Bite team, I am interested in your Namkeen range.
+
+Product: [PRODUCT NAME]
+
+Pack size: [PACK SIZE]
+
+Quantity: [QUANTITY]
+
+Please confirm availability, price and delivery options.
+
+### Mithai Message
+
+Hello Bika Bite team, I would like to enquire about Mithai.
+
+Product or gift box: [PRODUCT NAME]
+
+Quantity: [QUANTITY]
+
+Required date: [DATE]
+
+Delivery city: [CITY]
+
+Please share availability and pricing.
+
+### Wholesale Message
+
+Hello Bika Bite team, I am interested in a wholesale or distribution enquiry.
+
+Business name: [BUSINESS NAME]
+
+City: [CITY]
+
+Products of interest: [PRODUCTS]
+
+Please contact me to discuss your business terms.
+
+### Bulk Order Message
+
+Hello Bika Bite team, I would like to enquire about a bulk order.
+
+Order type: [ORDER TYPE]
+
+Products: [PRODUCTS]
+
+Quantity: [QUANTITY]
+
+Required date: [DATE]
+
+Location: [LOCATION]
+
+Please contact me to discuss the details.
+
+**Technical requirements:**
+- Open the official WhatsApp account.
+- Prefill the correct message for the relevant product or page.
+- Do not claim that an order has been placed merely because WhatsApp opened.
+- The customer must send the message themselves.
+- Test every button on desktop and mobile.
+
+---
+
+## 20. PHONE ORDERING — REQUIRED FUNCTIONALITY
+
+All Call to Order buttons must use a real, verified phone number.
+
+Link structure:
+
+`tel:[OFFICIAL_PHONE_NUMBER]`
+
+On mobile, tapping the button should open the phone dialler.
+
+On desktop, behaviour depends on the installed calling application and browser.
+
+Never leave a Call to Order button linked to a placeholder number on the live website.
+
+---
+
+## 21. FORMS AND LEAD MANAGEMENT
+
+All contact, bulk-order and partnership forms must be functional.
+
+Required behaviour:
+
+1. Validate required fields.
+2. Validate phone number and email format where applicable.
+3. Prevent accidental duplicate submissions where practical.
+4. Submit the form to a configured backend, approved CRM or business email workflow.
+5. Store and protect submitted information appropriately.
+6. Display a success message only after successful submission.
+7. Display a clear error message if submission fails.
+8. Provide a fallback contact option if the form cannot be submitted.
+9. Configure spam protection.
+10. Test the complete flow before launch.
+
+Suggested success message:
+
+“Thank you for contacting Bika Bite. Your enquiry has been submitted successfully. Our team will contact you using the details you provided.”
+
+Use this message only when the backend confirms successful submission.
+
+---
+
+## 22. WEBSITE ADMIN PANEL
+
+The business owner or authorised administrator should be able to:
+
+- Add, edit and remove products
+- Upload and replace product images
+- Manage Kitchen menu items
+- Manage Namkeen products and pack sizes
+- Manage Mithai products and gift boxes
+- Update prices and availability
+- Mark products as unavailable
+- Manage categories
+- Update contact details and WhatsApp number
+- Update business hours and delivery information
+- Edit homepage banners and text
+- View or receive form submissions
+- Update FAQs and policies
+- Manage SEO titles and descriptions
+
+Prices, products and delivery details must not be hard-coded in a way that prevents the business from updating them.
+
+---
+
+## 23. DESIGN DIRECTION
+
+Create a premium, appetising and recognisable Indian food-brand website.
+
+**Suggested palette:**
+- Deep maroon or rich red for primary brand elements
+- Warm cream for backgrounds
+- Dark brown or charcoal for text
+- Gold as a restrained accent
+
+**Design principles:**
+- Real product photographs wherever available
+- Clear, readable typography
+- Spacious product cards
+- Strong mobile experience
+- Simple navigation
+- Consistent buttons
+- Fast-loading pages
+- Good colour contrast
+- No excessive animation
+- No fake ratings, reviews, awards or certifications
+
+The Kitchen, Namkeen and Mithai sections should have distinct imagery while maintaining one consistent Bika Bite identity.
+
+---
+
+## 24. SEO REQUIREMENTS
+
+Suggested page titles and descriptions:
+
+**Home**
+Title: Bika Bite | Born in Bikaner — Kitchen, Namkeen & Mithai
+
+Description: Explore Bika Bite Kitchen, Namkeen and Mithai. Discover our offerings and contact us directly for orders, gifting and business enquiries.
+
+**Kitchen**
+Title: Bika Bite Kitchen | Menu and Direct Orders
+
+Description: Explore the Bika Bite Kitchen menu and contact our team for availability, pricing and order enquiries.
+
+**Namkeen**
+Title: Bika Bite Namkeen | Products and Wholesale Enquiries
+
+Description: Discover the Bika Bite Namkeen range. Explore products and contact us for availability, pack sizes and business enquiries.
+
+**Mithai**
+Title: Bika Bite Mithai | Sweets and Gifting Enquiries
+
+Description: Explore Bika Bite Mithai for celebrations and gifting. Contact us for available varieties, quantities and bulk enquiries.
+
+**Bulk Orders**
+Title: Bika Bite | Bulk Orders, Gifting and Business Enquiries
+
+Description: Contact Bika Bite for bulk food requirements, gifting enquiries and potential business partnerships.
+
+Use accurate image alt text, descriptive page URLs, a sitemap, canonical URLs and appropriate structured data where supported. Do not add unverified claims to metadata.
+
+---
+
+## 25. FOOD BUSINESS AND LEGAL COMPLIANCE
+
+Before the website goes live, verify the applicable requirements for the business and products, including:
+
+- Correct FSSAI registration or licence details, where applicable
+- Accurate food-business identity and contact information
+- Required packaged-food labels and declarations
+- Ingredients, allergens and nutrition information, as applicable
+- Net quantity, MRP and other Legal Metrology declarations, where applicable
+- Verified storage instructions and shelf life
+- Accurate manufacturer, packer or marketer details, as applicable
+- Privacy, consumer protection and website terms
+- Correct permissions for any protected product names, geographical indications, logos or third-party marks
+
+Publish only information that the business can substantiate. Do not use the registered trademark symbol (®) unless the relevant mark is registered.
+
+The developer should not create regulatory declarations or invent licence numbers.
+
+---
+
+## 26. FINAL DEVELOPER CHECKLIST
+
+Before launch, confirm that:
+
+- Every page is complete and responsive.
+- All navigation links work.
+- Kitchen, Namkeen and Mithai have separate pages.
+- All published product details are verified.
+- Product enquiry messages include the correct product information.
+- All WhatsApp links use the official number.
+- All phone buttons use the correct number.
+- Every form has a working submission destination.
+- Success and error states are tested.
+- No cart, checkout or online payment gateway is present.
+- Policies reflect the actual business practices.
+- Contact details and business hours are verified.
+- The website works on mobile, tablet and desktop.
+- SEO metadata, sitemap and analytics are configured as approved.
+- The website is tested before public launch.
+
+## FINAL BRAND MESSAGE
+
+BIKA BITE
+
+Born in Bikaner.
+
+Kitchen. Namkeen. Mithai.
+
+Three Food Experiences. One Bika Bite.
+
+Explore our offerings. Discover your favourites. Connect with us directly.
+
+**Explore Products | Order on WhatsApp | Call to Order | Partner With Us**
